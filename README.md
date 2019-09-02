@@ -8,7 +8,7 @@ projects.
 
 This is not an officially supported Google product.
 
-## Components
+## Components demo
 
 ### Sample Apigee Proxy - Currency API
 
